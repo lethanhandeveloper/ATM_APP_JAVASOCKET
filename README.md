@@ -1,2 +1,2 @@
 # ATM_APP_JAVASOCKET
-Atm app using TCP Protocol in Java
+Applying TCP protocol to build ATM Winform Application
